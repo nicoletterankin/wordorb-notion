@@ -1,0 +1,9 @@
+{
+  "name": "wordorb-notion",
+  "version": "1.0.0",
+  "description": "WordOrb integration for Notion — vocabulary databases and daily word pages",
+  "main": "notion-integration.js",
+  "dependencies": {
+    "@notionhq/client": "^2.2.0"
+  }
+}
