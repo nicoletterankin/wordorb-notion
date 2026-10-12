@@ -1,4 +1,4 @@
-# WordOrb Notion Integration
+# Word Orb Notion Integration
 
 ## Setup
 ```bash
@@ -9,7 +9,7 @@ export WORDORB_API_KEY=wo_your_key
 
 ## Create a Notion Integration
 1. Go to https://www.notion.so/my-integrations
-2. Create new integration: "WordOrb Vocabulary"
+2. Create new integration: "Word Orb Vocabulary"
 3. Copy the Internal Integration Token
 4. Share your target Notion page with the integration
 
@@ -29,7 +29,7 @@ node notion-integration.js daily <parent-page-id> resilience
 1. Go to https://www.notion.so/integrations
 2. Publish as a public integration
 3. Fill in:
-   - Name: WordOrb Vocabulary
+   - Name: Word Orb Vocabulary
    - Category: Education
    - Description: Build vocabulary databases with 162K+ curated word definitions
 4. Submit for review
